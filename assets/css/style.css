@@ -1,0 +1,49 @@
+
+
+ body{
+    background:  #4d79ff;
+}
+.form-login{
+    margin-top: 13%;
+}
+.outter-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+.styledselect {
+background: #999;
+color: #fff;
+width: 120px;
+padding: 5px;
+line-height: 14px;
+margin-right: 6px;
+font-size: 12px;
+border-radius: 4px;
+}
+.logo-login {
+ position: absolute;
+font-size: 35px;
+color: #FFFFFF;
+padding: 10px 18px;
+top: -64px;
+left: -5%;
+}
+.inner-login .form-control {
+    background: #D3D3D3;
+}
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.forget {
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-green {
+    background: #21A957;
+    color: #fff;
+} 
+
